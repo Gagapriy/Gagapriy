@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gagani Priyanjana Lansakara</h1>
-<h3 align="center">Computer Science student </h3>
+<h3 align="center">Computer Science Undergraduate </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagapriy&label=Profile%20views&color=0e75b6&style=flat" alt="gagapriy" /> </p>
 
